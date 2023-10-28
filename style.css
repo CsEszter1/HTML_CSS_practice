@@ -1,0 +1,22 @@
+body {
+    background-color:blanchedalmond;
+}
+
+.card {
+    color:rgb(162, 9, 9);
+    text-align: center;
+    text-transform: uppercase;
+    font-family:'Indie Flower', cursive;
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 100px;
+}
+
+p {
+    font-size:x-large
+}
+
+.image {
+    border: 3.5px solid brown;
+    width: 80%;
+}
